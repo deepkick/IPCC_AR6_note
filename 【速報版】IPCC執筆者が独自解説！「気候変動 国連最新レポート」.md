@@ -1,6 +1,26 @@
 # 【速報版】IPCC執筆者が独自解説！「気候変動 国連最新レポート」
 https://www.youtube.com/watch?v=dLgGSI0G2SA&t=738s
 
+```
+8/9に公表されたIPCC第6次評価報告書第1作業部会(自然科学的根拠)の概要を、
+執筆者の一人でもある江守正多副領域長が解説！
+14項目のヘッドライン一つ一つをわかりやすく、時にマニアックに、
+独自視点を交えながら見ていきます。
+今回の報告書にどんなことが書いてあるか、これを見ればすべてわかる！
+気候変動に関する最新の科学的知見をダイジェストでお伝えします。
+```
+
+#IPCC #AR6 #気候変動
+
+第6次評価報告書についてはこちら
+http://www.env.go.jp/earth/ipcc/6th/i...
+https://www.ipcc.ch/report/sixth-asse...
+
+[企画]
+国立環境研究所 https://www.nies.go.jp/
+地球システム領域 地球環境研究センター https://esd.nies.go.jp/ja/
+社会対話・協働推進オフィス　https://taiwa.nies.go.jp/
+
 ## IPCC WGI AR6 SPM
 
 気候変動に関する政府間パネル
